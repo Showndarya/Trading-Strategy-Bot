@@ -6,6 +6,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 def clean_text(text):
+    text = re.sub(r'\[.*?\]\(.*?\)', '', text)
     text = re.sub(r'http\S+', '', text)
     text = re.sub(r'[^a-zA-Z\s]', '', text)
     text = text.lower().strip() 
