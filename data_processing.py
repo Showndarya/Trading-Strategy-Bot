@@ -4,6 +4,7 @@ nltk.download('punkt')
 import re
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
+from acronyms import acronyms 
 
 def clean_text(text):
     text = re.sub(r'\[.*?\]\(.*?\)', '', text)
@@ -12,8 +13,14 @@ def clean_text(text):
     text = text.lower().strip() 
     return text
 
+def expand_acronyms(text):
+    for acronym, expansion in acronyms.items():
+        text = re.sub(r'\b' + acronym + r'\b', expansion, text) 
+    return text
+
 df = pd.read_csv('reddit_data.csv')
 df['content'] = df['content'].apply(lambda x: clean_text(str(x)))
+df['content'] = df['content'].apply(expand_acronyms)
 df['tokens'] = df['content'].apply(word_tokenize)
 
 
