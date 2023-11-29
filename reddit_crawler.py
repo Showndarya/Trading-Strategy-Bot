@@ -26,18 +26,18 @@ reddit = praw.Reddit(
 #     print(post)
 
 keywords = []
-with open('keywords.csv', newline='', encoding='utf-8') as csvfile:
+with open('data/keywords.csv', newline='', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile)
     for row in reader:
         keywords.append(row[0]) 
 
 subreddits = []
-with open('subreddits.csv', newline='', encoding='utf-8') as csvfile:
+with open('data/subreddits.csv', newline='', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile)
     for row in reader:
         subreddits.append(row[0])
 
-with open('reddit_data.csv', 'w', newline='', encoding='utf-8') as csvfile:
+with open('data/reddit_data.csv', 'w', newline='', encoding='utf-8') as csvfile:
     fieldnames = ['keyword', 'subreddit', 'title', 'content', 'score', 'top_comment_1', 'top_comment_2', 'top_comment_3']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
