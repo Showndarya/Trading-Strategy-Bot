@@ -47,3 +47,14 @@ for index, row in df.iterrows():
         }, ignore_index=True)
 
 gpt_dataset.to_csv('data/gpt_training_data.csv', index=False)
+
+# tfidf
+# df['tokens'] = df['content'].apply(word_tokenize)
+# df['text'] = df['tokens'].apply(lambda tokens: ' '.join(tokens))
+# vectorizer = TfidfVectorizer(max_features=1000, stop_words='english')
+# tfidf_matrix = vectorizer.fit_transform(df['text'])
+# feature_names = vectorizer.get_feature_names_out()
+# tfidf_df = pd.DataFrame(tfidf_matrix.toarray(), columns=feature_names)
+# tfidf_df['title'] = df['title']
+# print(tfidf_df.head())
+# tfidf_df.to_csv('tfidf_results.csv', index=False)
