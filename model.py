@@ -4,7 +4,7 @@ import openai
 openai.api_key = ''
 
 result = openai.fine_tuning.jobs.create(
-    training_file='',   
+    training_file='file-ed0sP4cmQoeHglqdmNsG2xV9',   
     model='gpt-3.5-turbo',            
     hyperparameters= {
       "n_epochs": 2,
