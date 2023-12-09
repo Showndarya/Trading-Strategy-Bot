@@ -3,10 +3,10 @@ import json
 import openai
 import config
 
-openai.api_key = config.openai_key
+openai.api_key = ''
 
 result = openai.fine_tuning.jobs.create(
-    training_file='',   
+    training_file='file-fZlAEImaowVhBGgq4JiOxy4c',   
     model='gpt-3.5-turbo',            
     hyperparameters= {
       "n_epochs": 2,
