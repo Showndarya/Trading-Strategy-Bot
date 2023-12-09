@@ -1,16 +1,12 @@
-import random
+from openai import OpenAI
+
+client = OpenAI(api_key='')
 
 def send_to_custom_model(user_input):
-    # below is stub code. should be replaced with the model we create
-
-    responses = [
-        f"Hello, {user_input}!",
-        f"Why did you say {user_input}?",
-        f"I'm not sure about {user_input}.",
-        f"Can you explain more about {user_input}?",
-        f"{user_input} is interesting."
-    ]
-    return random.choice(responses)
+    response = client.chat.completions.create(model='gpt-3.5-turbo-0613',
+    messages=[{"role": "user", "content": user_input}])
+    
+    print(response)
 
 def chatbot():
     print("Hello! Type 'exit' to end the chat.")

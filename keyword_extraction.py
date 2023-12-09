@@ -21,7 +21,7 @@ for extracted_keyword in extracted_keywords:
 
 print('Keywords generated!')
 
-with open('keywords.csv', 'w') as keyword_file:
+with open('data/keywords.csv', 'w') as keyword_file:
     writer = csv.writer(keyword_file)
     for keyword in keywords:
         writer.writerow([keyword])
