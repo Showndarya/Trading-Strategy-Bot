@@ -1,41 +1,30 @@
 Ticker,Company Name
 XOM,Exxon Mobil Corporation (XOM)
-GE,General Electric Company (GE)
 MSFT,Microsoft Corporation (MSFT)
 BP,BP p.l.c. (BP)
-C,"Citigroup, Inc. (C)"
 PG,Procter & Gamble Company (The) (PG)
 WMT,"Wal-Mart Stores, Inc. (WMT)"
 PFE,"Pfizer, Inc. (PFE)"
 HBC,"HSBC Holdings, plc. (HBC)"
 TM,Toyota Motor Corporation (TM)
 JNJ,JOHNSON & JOHNSON (JNJ)
-BAC,Bank of America Corporation (BAC)
 AIG,"American International Group, Inc. (AIG)"
-TOT,"TotalFinaElf, S.A. (TOT)"
 NVS,Novartis AG (NVS)
-MO,Altria Group (MO)
 GSK,GLAXOSMITHKLINE PLC (GSK)
 MTU,Mitsubishi UFJ Financial Group Inc (MTU)
 JPM,J.P. Morgan Chase & Co. (JPM)
 RDS/A,ROYAL DUTCH SHELL PLC (RDS/A)
 CVX,ChevronTexaco Corporation (CVX)
-SNY,Sanofi-Aventis SA (SNY)
 VOD,Vodafone AirTouch Public Limited Company (VOD)
 INTC,Intel Corporation (INTC)
 IBM,International Business Machines Corporation (IBM)
-E,ENI S.p.A. (E)
 CSCO,"Cisco Systems, Inc. (CSCO)"
 BRK/A,Berkshire Hathaway Inc. (BRK/A)
 UBS,UBS AG (UBS)
 WFC,Wells Fargo Cap IX (WFC)
-T,AT&T Inc. (T)
 RDS/B,ROYAL DUTCH SHELL PLC (RDS/B)
-KO,Coca-Cola Company (The) (KO)
 CHL,China Mobile (Hong Kong) Ltd. (CHL)
-PEP,"Pepsico, Inc. (PEP)"
 VZ,Verizon Communications Inc. (VZ)
-COP,CONOCOPHILLIPS (COP)
 DNA,"Genentech, Inc. (DNA)"
 AMGN,Amgen Inc. (AMGN)
 STD,"Banco Santander Central Hispano, S.A. (STD)"
@@ -43,14 +32,11 @@ HPQ,Hewlett-Packard Company (HPQ)
 GOOG,Google Inc. (GOOG)
 HD,"Home Depot, Inc. (The) (HD)"
 WB,Wachovia Corporation (WB)
-SI,Siemens AG (SI)
 NOK,Nokia Corporation (NOK)
 UNH,UnitedHealth Group Incorporated (UNH)
 TWX,Time Warner Inc. (TWX)
 QCOM,QUALCOMM Incorporated (QCOM)
-ING,"ING Group, N.V. (ING)"
 DCM,NTT Docomo Inc (DCM)
-EON,E.ON AG (EON)
 AZN,ASTRAZENECA PLC (AZN)
 MRK,"Merck & Company, Inc. (MRK)"
 SLB,Schlumberger N.V. (SLB)
@@ -60,7 +46,6 @@ NTT,Nippon Telegraph and Telephone Corporation (NTT)
 BHP,BHP Billiton Limited (BHP)
 CSR,CREDIT SUISSE GROUP (CSR)
 BCS,Barclays PLC (BCS)
-DELL,Dell Inc. (DELL)
 MER,"Merrill Lynch & Co., Inc. (MER)"
 BBV,Banco Bilbao Viscaya Argentaria S.A. (BBV)
 MDT,"Medtronic, Inc. (MDT)"
@@ -68,7 +53,6 @@ ABT,Abbott Laboratories (ABT)
 DT,Deutsche Telekom AG (DT)
 AXP,American Express Company (AXP)
 MS,Morgan Stanley (MS)
-SAP,"SAP Aktiengesellschaft Systeme, Anwendungen, Produkte (SAP)"
 Nextel Corporation,Sprint (Nextel Corporation)
 ORCL,Oracle Corporation (ORCL)
 LLY,Eli Lilly and Company (LLY)
@@ -76,7 +60,6 @@ AZ,Allianz Aktiengesellschaft (AZ)
 GS,"Goldman Sachs Group, Inc. (The) (GS)"
 AAPL,"Apple Computer, Inc. (AAPL)"
 AXA,AXA (AXA)
-WYE,American Home Products Corporation (WYE)
 STO,STATOIL ASA (STO)
 EBAY,eBay Inc. (EBAY)
 PBR,Petroleo Brasileiro S.A.- Petrobras (PBR)
@@ -86,11 +69,8 @@ AAUK,Anglo American plc (AAUK)
 DCX,DAIMLERCHRYSLER AG (DCX)
 DB,Deutsche Bank AG (DB)
 ERICY,LM Ericsson Telephone Company (ERICY)
-MOT,"Motorola, Inc. (MOT)"
 FNM,Federal National Mortgage Association (FNM)
-BA,Boeing Company (The) (BA)
 MMM,3M Company (MMM)
-SPY,SPDR Trust Series I (SPY)
 RTP,Rio Tinto Plc (RTP)
 USB,U.S. Bancorp (USB)
 CAJ,"Canon, Inc. (CAJ)"
@@ -99,27 +79,55 @@ MC,"Matsushita Electric Industrial Company, Ltd. (MC)"
 TYC,"Tyco International, Ltd. (TYC)"
 ABN,ABN Amro Holding N.V. (ABN)
 HMC,"Honda Motor Company, Ltd. (HMC)"
-EN,ENEL S.p.A. (EN)
-,"Allied Waste Industries, Inc. ()"
+BLS,Structured Products Corp. (BLS)
+LYG,LLOYDS TSB GROUP PLC (LYG)
 NSANY,"Nissan Motor Co., Ltd. (NSANY)"
+RY,Royal Bank Of Canada (RY)
+SNE,Sony Corporation (SNE)
 YHOO,Yahoo! Inc. (YHOO)
+MFC,Manulife Financial Corp (MFC)
+TGT,Target Corporation (TGT)
+TEM,Telefonica Moviles S.A. (TEM)
 "Industries, p.l.c.","British American Tobacco (Industries, p.l.c.)"
+UPS,"United Parcel Service, Inc. (UPS)"
+WLP,WellPoint Health Networks Inc. (WLP)
+TXN,Texas Instruments Incorporated (TXN)
+SZE,SUEZ ADS (SZE)
+FRE,Federal Home Loan Mortgage Corporation (FRE)
+BBL,BHP BILLITON PLC (BBL)
+BMY,Lehman ABS Corporation (BMY)
+PHG,"Koninklijke Philips Electronics, N.V. (PHG)"
+MCD,McDonald's Corporation (MCD)
+DEO,Diageo plc (DEO)
+ECA,Encana Corporation (ECA)
+BF,Brown-Forman Corporation (BF)
+AMX,"America Movil, S.A. de C.V. (AMX)"
+WM,"Washington Mutual, Inc. (WM)"
+HAL,Halliburton Company (HAL)
+BRG,BG Group plc (BRG)
 PBR/A,PETROLEO BRASILEIRO SA PETRO (PBR/A)
+ACL,ALCON INC (ACL)
+BNS,Bank of Nova Scotia (The) (BNS)
+VLO,Valero Energy Corporation (VLO)
+NMR,Nomura Holdings Inc ADR (NMR)
+EXC,EXELON CORP (EXC)
+PRU,Prudential Financial Inc (PRU)
+TD,Toronto Dominion Bank (The) (TD)
 CMCSA,Comcast Corporation (CMCSA)
+LEH,Lehman Brothers Fin SA (LEH)
+GLW,Corning Incorporated (GLW)
 Inc.,Suncor Energy (Inc.)
+DD,E.I. du Pont de Nemours and Company (DD)
 CEO,CNOOC Limited (CEO)
 ANZ,Australia & New Zealand Banking Group Limited (ANZ)
 NWS/A,News Corporation Limited (The) (NWS/A)
 FDC,First Data Corporation (FDC)
 MLEA,Millea Holdings Inc. ADR (MLEA)
 BR,Burlington Resources Inc. (BR)
-ALL,Allstate Corporation (The) (ALL)
 CNQ,Canadian Natural Resources Limited (CNQ)
-REP,Repsol YPF S.A. (REP)
 CCL,Carnival Corporation (CCL)
 WBK,Westpac Banking Corporation (WBK)
 HON,Honeywell International Inc. (HON)
-BUD,"Anheuser-Busch Companies, Inc. (BUD)"
 EMC,EMC Corporation (EMC)
 NHY,Norsk Hydro ASA (NHY)
 EMR,Emerson Electric Company (EMR)
@@ -128,40 +136,29 @@ AMAT,"Applied Materials, Inc. (AMAT)"
 BT,BT GROUP PLC (BT)
 CAH,"Cardinal Health, Inc. (CAH)"
 FDX,FedEx Corporation (FDX)
-BAY,Bayer Aktiengesellschaft (BAY)
 UL,Unilever PLC (UL)
 DVN,Devon Energy Corporation (DVN)
 ELE,Endesa S.A. (ELE)
 BMO,Bank Of Montreal (BMO)
 BNI,Burlington Northern Santa Fe Corporation (BNI)
-DA,GROUPE DANONE (DA)
 VIA/B,"Viacom, Inc. (VIA/B)"
 LMT,Lockheed Martin Corporation (LMT)
-KEP,Korea Electric Power Corporation (KEP)
 CL,Colgate-Palmolive Company (CL)
 SGP,Schering-Plough Corp (SGP)
 MRO,Marathon Oil Corporation (MRO)
 NGG,"National Grid Transco, PLC (NGG)"
-GILD,"Gilead Sciences, Inc. (GILD)"
 SSL,Sasol Ltd. (SSL)
 AET,Aetna Inc. (AET)
-AA,Alcoa Inc. (AA)
 TEVA,Teva Pharmaceutical Industries Limited (TEVA)
 KB,Kookmin Bank (KB)
-RIG,Transocean Inc. (RIG)
 KMB,Kimberly-Clark Corporation (KMB)
 BHI,Baker Hughes Incorporated (BHI)
 DUK,Duke Energy Corporation (DUK)
-D,"Dominion Resources, Inc. (D)"
 STI,"SunTrust Banks, Inc. (STI)"
-SO,Southern Company (The) (SO)
 AEG,AEGON N.V. (AEG)
-IMI,Sanpaolo IMI S.p.A. (IMI)
 NEM,Newmont Mining Corporation (Holding Company) (NEM)
-BEN,"Franklin Resources, Inc. (BEN)"
 APC,Anadarko Petroleum Corporation (APC)
 ADP,"Automatic Data Processing, Inc. (ADP)"
-APA,Apache Corporation (APA)
 BBY,"Best Buy Co., Inc. (BBY)"
 HIG,"Hartford Financial Services Group, Inc. (The) (HIG)"
 PCZ,Petro-Canada (PCZ)
@@ -175,9 +172,7 @@ SBUX,Starbucks Corporation (SBUX)
 TXU,TXU Corporation (TXU)
 CNI,Canadian National Railway Company (CNI)
 ADBE,Adobe Systems Incorporated (ADBE)
-HIT,"Hitachi, Ltd. (HIT)"
 ITW,Illinois Tool Works Inc. (ITW)
-COST,Costco Wholesale Corporation (COST)
 AFL,AFLAC Incorporated (AFL)
 UNP,Union Pacific Corporation (UNP)
 BCM,Canadian Imperial Bank of Commerce (BCM)
@@ -185,14 +180,10 @@ SLM,SLM Corporation (SLM)
 TOC,THOMSON CORP (TOC)
 IX,Orix Corp Ads (IX)
 GD,General Dynamics Corporation (GD)
-AT,ALLTEL Corporation (AT)
 BAX,Baxter International Inc. (BAX)
 MITSY,"Mitsui & Company, Ltd. (MITSY)"
-MON,Monsanto Company (MON)
-ABB,ABB LTD (ABB)
 CVS,CVS Corporation (CVS)
 BCE,"BCE, Inc. (BCE)"
-L,Liberty Media Corporation (L)
 TLM,Talisman Energy Inc. (TLM)
 COF,Capital One Financial Corporation (COF)
 CMX,"Caremark Rx, Inc. (CMX)"
@@ -205,12 +196,10 @@ BBT,BB&T Corporation (BBT)
 NCC,National City Corporation (NCC)
 YPF,YPF Sociedad Anonima (YPF)
 PTR,PetroChina Company Limited (PTR)
-WIT,Wipro Limited (WIT)
 ITY,Imperial Tobacco Group plc (ITY)
 EFA,iShares MSCI EAFE Index Fund (EFA)
 KPN,Royal KPN N.V. (KPN)
 FITB,Fifth Third Bancorp (FITB)
-VE,Vivendi Environnement Ord (VE)
 CSG,"Cadbury Schweppes, PLC (CSG)"
 PGR,Progressive Corporation (The) (PGR)
 INFY,Infosys Technologies Limited (INFY)
@@ -230,7 +219,6 @@ SHLD,Sears Holdings Corporation (SHLD)
 DTV,The DirecTV Group Inc (DTV)
 TS,Tenaris S.A. (TS)
 ACN,Accenture Ltd. (ACN)
-ALA,ALCATEL (ALA)
 MHP,"McGraw-Hill Companies, Inc. (The) (MHP)"
 SCHW,Charles Schwab Corporation (The) (SCHW)
 SPI,Scottish Power pls (SPI)
@@ -252,14 +240,11 @@ RTN,Raytheon Company (RTN)
 TELN,Telenor ASA (TELN)
 LVS,Las Vegas Sands Corp. (LVS)
 FD,"Federated Department Stores, Inc. (FD)"
-AL,"ALCAN, Inc. (AL)"
 STJ,"St. Jude Medical, Inc. (STJ)"
 CHT,Chunghwa Telecom Co Ltd (CHT)
 BSX,Boston Scientific Corporation (BSX)
 FUJIY,"Fuji Photo Film Co., Ltd. (FUJIY)"
 XTO,XTO Energy Inc. (XTO)
-K,Kellogg Company (K)
-ACE,Ace Limited (ACE)
 WMI,"Waste Management, Inc. (WMI)"
 SPLS,"Staples, Inc. (SPLS)"
 GIS,"General Mills, Inc. (GIS)"
@@ -270,17 +255,12 @@ ZMH,"Zimmer Holdings, Inc. (ZMH)"
 NWS,News Corporation Limited (The) (NWS)
 CRHCY,CRH PLC (CRHCY)
 PX,"Praxair, Inc. (PX)"
-WY,Weyerhaeuser Company (WY)
 KYO,Kyocera Corporation (KYO)
-DE,Deere & Company (DE)
 NVO,Novo Nordisk A/S (NVO)
 STM,STMicroelectronics N.V. (STM)
-IRE,Governor and Company of the Bank of Ireland (The) (IRE)
-PEG,Public Service Enterprise Group Incorporated (PEG)
 MHS,MedcoHealth Solutions Inc (MHS)
 MMC,"Marsh & McLennan Companies, Inc. (MMC)"
 TMX,Telefonos de Mexico SA de CV Ser A Spons ADR (TMX)
-FE,FirstEnergy Corporation (FE)
 FPL,"FPL Group, Inc. (FPL)"
 ERTS,Electronic Arts Inc. (ERTS)
 LPL,LG.PHILIPS (LPL)
@@ -293,7 +273,6 @@ ITU,Banco Itau Holding Financeira SA (Holding Co) (ITU)
 IP,International Paper Company (IP)
 BSY,"British Sky Broadcasting Group, plc (BSY)"
 WF,Woori Finance Holdings Co Ltd (WF)
-CA,"Computer Associates International, Inc. (CA)"
 CCU,"Clear Channel Communications, Inc. (CCU)"
 GPS,"Gap, Inc. (The) (GPS)"
 NKE,"Nike, Inc. (NKE)"
@@ -302,7 +281,6 @@ AGN,"Allergan, Inc. (AGN)"
 WFT,"Weatherford International, Inc. (WFT)"
 NBG,Natl Bk Greece Ads (NBG)
 SUNW,"Sun Microsystems, Inc. (SUNW)"
-F,Ford Motor Credit Company (F)
 KSS,Kohl's Corporation (KSS)
 SHG,Shinhan Financial Group Co Ltd (SHG)
 CI,CIGNA Corporation (CI)
@@ -316,15 +294,12 @@ GCI,"Gannett Co., Inc. (GCI)"
 LM,"Legg Mason, Inc. (LM)"
 KFT,Kraft Foods Inc. (KFT)
 OMC,Omnicom Group Inc. (OMC)
-MEL,Mellon Financial Corporation (MEL)
 HDI,"Harley-Davidson, Inc. (HDI)"
 AEP,"American Electric Power Company, Inc. (AEP)"
 CME,Chicago Mercantile Exchange Holdings (CME)
 ADI,"Analog Devices, Inc. (ADI)"
-A,"Agilent Technologies, Inc. (A)"
 ETR,Entergy Corporation (ETR)
 AHC,Amerada Hess Corporation (AHC)
-KEY,KeyCorp (KEY)
 WOS,WOLSELEY PLC (WOS)
 BSC,"Bear Stearns Companies, Inc (The) (BSC)"
 GSF,Santa Fe International Corporation (GSF)
@@ -336,7 +311,6 @@ YUM,"Yum! Brands, Inc. (YUM)"
 PCG,Pacific Gas & Electric Co. (PCG)
 IBN,ICICI Bank Limited (IBN)
 TLK,"P.T. Telekomunikasi Indonesia, Tbk. (TLK)"
-MAR,Marriot International (MAR)
 SLE,Sara Lee Corporation (SLE)
 AKZOY,Akzo Nobel N.V. (AKZOY)
 CCJ,Cameco Corporation (CCJ)
@@ -345,19 +319,15 @@ APD,"Air Products and Chemicals, Inc. (APD)"
 COH,"Coach, Inc. (COH)"
 GM,General Motors Corporation (GM)
 SYT,Syngenta AG (SYT)
-HET,"Harrah's Entertainment, Inc. (HET)"
 EMQ,"Entergy Mississippi, Inc. (EMQ)"
 IVV,iShares S&P 500 Index Fund (IVV)
 MXIM,"Maxim Integrated Products, Inc. (MXIM)"
 JCI,"Johnson Controls, Inc. (JCI)"
-BOX,BOC Group plc (The) (BOX)
 KR,Kroger Company (The) (KR)
-HOT,"Starwood Hotels & Resorts Worldwide, Inc. (HOT)"
 XRX,Xerox Corporation (XRX)
 TKG,Telkom SA Ltd (TKG)
 ESRX,"Express Scripts, Inc. (ESRX)"
 SHR,Schering Aktiengesellschaft (SHR)
-NOV,"National-Oilwell, Inc. (NOV)"
 LUV,Southwest Airlines Company (LUV)
 PFG,Principal Financial Group Inc (PFG)
 WPPGY,WPP Group plc (WPPGY)
@@ -370,7 +340,6 @@ NT,Nortel Networks Corporation (NT)
 IR,Ingersoll-Rand Company (IR)
 AVP,"Avon Products, Inc. (AVP)"
 UMC,United Microelectronics Corporation (UMC)
-SUN,"Sunoco, Inc. (SUN)"
 JCP,"J.C. Penney Company, Inc. Holding Company (JCP)"
 CHK,Chesapeake Energy Corporation (CHK)
 TKC,Turkcell Iletisim Hizmetleri AS (TKC)
@@ -381,12 +350,10 @@ KMG,Kerr-McGee Corporation (KMG)
 PCU,Southern Peru Copper Corporation (PCU)
 NBR,"Nabors Industries, Inc. (NBR)"
 TVE,Tennessee Valley Authority (TVE)
-AMT,American Tower Corporation (AMT)
 STX,Seagate Technology Holdings (STX)
 TLD,Tele Danmark A/S (TLD)
 KUB,Kubota Corporation (KUB)
 EDP,"Electricidade de Portugal, S.A. (EDP)"
-MAS,Masco Corporation (MAS)
 GNW,Genworth Financial Inc (GNW)
 NIPNY,NEC Corporation (NIPNY)
 PLD,ProLogis (PLD)
@@ -395,7 +362,6 @@ SNDK,SanDisk Corporation (SNDK)
 CPB,Campbell Soup Company (CPB)
 SRE,SEMPRA ENERGY (SRE)
 GGP,"General Growth Properties, Inc. (GGP)"
-ATE,Advantest Corporation (Kabushiki Kaisha Advantest) ADS (ATE)
 NFB,"North Fork Bancorporation, Inc. (NFB)"
 EQR,EQUITY RESIDENTIAL (EQR)
 WWY,Wm. Wrigley Jr. Company (WWY)
@@ -406,11 +372,9 @@ KNBWY,"Kirin Brewery Company, Limited (KNBWY)"
 TKA,TELEKOM AUSTRIA AG (TKA)
 CELG,Celgene Corporation (CELG)
 IGT,International Game Technology (IGT)
-AHO,"Koninklijke Ahold, N.V. (AHO)"
 KTC,Korea Telecom Corporation (KTC)
 FCX,"Freeport-McMoRan Copper & Gold, Inc. (FCX)"
 ABV/C,COMPANHIA DE BEBIDAS DAS AME (ABV/C)
-LUX,"Luxottica Group, S.p.A. (LUX)"
 CUK,Carnival Plc ADS (CUK)
 XL,XL CAPITAL LIMITED (XL)
 PCAR,PACCAR Inc. (PCAR)
@@ -435,30 +399,23 @@ ROH,Rohm and Haas Company (ROH)
 JWN,"Nordstrom, Inc. (JWN)"
 PDG,Placer Dome Incorporated (PDG)
 CN,China Netcom Group Corporation (Hong Kong) Limited (CN)
-Q,Qwest Communications International Inc. (Q)
 EWJ,iShares MSCI Japan Index Fund (EWJ)
 CHU,CHINA UNICOM LTD (CHU)
 TXT,Textron Inc. (TXT)
-AES,Aes Trust (AES)
 BBBY,Bed Bath & Beyond Inc. (BBBY)
 ENB,ENBRIDGE INC (ENB)
-NE,Noble Corporation (NE)
 PGN,PROGRESS ENERGY INC (PGN)
 FO,"Fortune Brands, Inc. (FO)"
 AOC,Aon Corporation (AOC)
 ASML,ASML Holding N.V. (ASML)
-DO,"Diamond Offshore Drilling, Inc. (DO)"
 RTRSY,Reuters Group PLC (RTRSY)
 FIA,FIAT S.p.A. (FIA)
-CAG,"ConAgra Foods, Inc. (CAG)"
 UPM,UPM-Kymmene Oyj (UPM)
 UU,United Utilities plc. (UU)
-CIT,CIT Group Inc (DEL) (CIT)
 MUR,Murphy Oil Corporation (MUR)
 MGM,MGM MIRAGE (MGM)
 SWY,Safeway Inc. (SWY)
 ENL,Reed Elsevier NV (ENL)
-ADO,Adecco SA (ADO)
 F^A,FORD MTR CO DEL (F^A)
 PSO,"Pearson, Plc (PSO)"
 CEG,"Constellation Energy Group, Inc. (CEG)"
@@ -472,11 +429,9 @@ AMP,"AMERIPRISE FINANCIAL SERVICES, INC. (AMP)"
 GLH,"Gallaher Group, PLC (GLH)"
 WFMI,"Whole Foods Market, Inc. (WFMI)"
 DGX,Quest Diagnostics Incorporated (DGX)
-TROW,"T. Rowe Price Group, Inc. (TROW)"
 PPG,"PPG Industries, Inc. (PPG)"
 ASN,Archstone Communities Trust (ASN)
 ET,E*TRADE Financial Corporation (ET)
-MI,Marshall & Ilsley Corporation (MI)
 CM,Coles Meyer Limited (CM)
 EPD,Enterprise Products Partners L.P. (EPD)
 XLNX,"Xilinx, Inc. (XLNX)"
@@ -484,7 +439,6 @@ ETN,Eaton Corporation (ETN)
 APOL,"Apollo Group, Inc. (APOL)"
 PBI,PITNEY BOWES INC (PBI)
 LLL,"L-3 Communications Holdings, Inc. (LLL)"
-N,Inco Ltd. (N)
 TDK,TDK Corporation (TDK)
 CVH,"Coventry Health Care, Inc. (CVH)"
 UB,UnionBanCal Corporation (UB)
@@ -503,7 +457,6 @@ ADSK,"Autodesk, Inc. (ADSK)"
 CSC,Computer Sciences Corporation (CSC)
 TNT,A.O. Tatneft (TNT)
 CCE,"Coca-Cola Enterprises, Inc. (CCE)"
-POT,Potash Corporation of Saskatchewan Inc. (POT)
 DOV,Dover Corporation (DOV)
 TV,Grupo Televisa S.A. (TV)
 GG,Goldcorp Incorporated (GG)
@@ -514,11 +467,8 @@ MT,Mittal Steel Company NV (MT)
 ECL,Ecolab Inc. (ECL)
 CTX,Centex Corporation (CTX)
 SEO,Stora Enso Oyj (SEO)
-MU,"Micron Technology, Inc. (MU)"
-HUM,Humana Inc. (HUM)
 PH,Parker-Hannifin Corporation (PH)
 CMA,Comerica Incorporated (CMA)
-SAN,"Banco Santiago, S.A. (SAN)"
 CLX,Clorox Company (The) (CLX)
 TRB,Tribune Company (TRB)
 AUO,AU OPTRONICS CORP (AUO)
@@ -532,10 +482,8 @@ CHIR,Chiron Corporation (CHIR)
 RCL,Royal Caribbean Cruises Ltd. (RCL)
 MDY,MidCap SPDR Trust Series I (MDY)
 IACI,IAC/InterActiveCorp (IACI)
-MIR,Mirant Corp (MIR)
 MEDI,"MedImmune, Inc. (MEDI)"
 RYAAY,Ryanair Holdings plc (RYAAY)
-HAN,Hanson plc.(Holding Company) (HAN)
 JBL,"Jabil Circuit, Inc. (JBL)"
 ZION,Zions Bancorporation (ZION)
 EXPE,"Expedia, Inc. (EXPE)"
@@ -549,11 +497,9 @@ ABK,"Ambac Financial Group, Inc. (ABK)"
 FISV,"Fiserv, Inc. (FISV)"
 NBL,Noble Energy Inc. (NBL)
 CNA,CNA Financial Corporation (CNA)
-COL,"Rockwell Collins, Inc. (COL)"
 UPL,Ultra Petroleum Corp. (UPL)
 HRB,"H&R Block, Inc. (HRB)"
 MGA,"Magna International, Inc. (MGA)"
-KIM,Kimco Realty Corporation (KIM)
 CINF,Cincinnati Financial Corporation (CINF)
 VAR,"Varian Medical Systems, Inc. (VAR)"
 HTX,Hutchison Telecommunications International Limited (HTX)
@@ -570,7 +516,6 @@ XEL,Xcel Energy Inc. (XEL)
 JP,Jefferson-Pilot Corporation (JP)
 LH,Laboratory Corporation of America Holdings (LH)
 TSP,Telecomunicacoes de Sao Paulo S.A. (TSP)
-SOV,"Sovereign Bancorp, Inc. (SOV)"
 ICI,Imperial Chemical Industries Plc (ICI)
 NVDA,NVIDIA Corporation (NVDA)
 KMP,"Kinder Morgan Energy Partners, L.P. (KMP)"
@@ -583,11 +528,9 @@ UVN,Univision Communications Inc. (UVN)
 ASD,"American Standard Companies, Inc. (ASD)"
 SIRI,Sirius Satellite Radio Inc. (SIRI)
 DTE,DTE Energy Company (DTE)
-AZO,"AutoZone, Inc. (AZO)"
 AVZ,Amvescap Plc (AVZ)
 CBE,"Cooper Industries, Ltd. (CBE)"
 NIHD,"NII Holdings, Inc. (NIHD)"
-PUB,Publicis Groupe S.A. (PUB)
 FMS,Fresenius Medical Care Corporation (FMS)
 HCBK,"Hudson City Bancorp, Inc. (HCBK)"
 GPC,Genuine Parts Company (GPC)
@@ -618,7 +561,6 @@ STR,Questar Corporation (STR)
 CHRW,"C.H. Robinson Worldwide, Inc. (CHRW)"
 PIXR,Pixar (PIXR)
 CPL,CPFL Energia S.A. (CPL)
-WEN,"Wendy's International, Inc. (WEN)"
 FNF,"Fidelity National Financial, Inc. (FNF)"
 PXD,Pioneer Natural Resources Company (PXD)
 NCR,NCR Corporation (NCR)
@@ -626,7 +568,6 @@ FSL/B,FREESCALE SEMICONDUCTOR INC (FSL/B)
 PCL,"Plum Creek Timber Company, Inc. (PCL)"
 DASTY,"Dassault Systemes, S.A. (DASTY)"
 ELN,"Elan Corporation, plc (ELN)"
-X,USX Corporation (X)
 BDK,Black & Decker Corporation (The) (BDK)
 CCI,Crown Castle International Corporation (CCI)
 CNX,CONSOL Energy Inc. (CNX)
@@ -634,31 +575,23 @@ AWC,ALUMINA LTD (AWC)
 GRMN,Garmin Ltd. (GRMN)
 NFX,Newfield Exploration Company (NFX)
 IHG,Intercontinental Hotels Group (IHG)
-MAT,"Mattel, Inc. (MAT)"
 BCR,"C.R. Bard, Inc. (BCR)"
 PCP,Precision Castparts Corporation (PCP)
 SFA,"Scientific-Atlanta, Inc. (SFA)"
 TKP,Technip (TKP)
 BG,Bunge Limited (BG)
 BAB,British Airways plc (BAB)
-TU,Telus Corporation (TU)
 JOYG,Joy Global Inc. (JOYG)
 RSA,Royal & SunAlliance Insurance Group PLC (RSA)
-DEG,Etablissements Delhaize Freres et Cie Le Lion S.A. (DEG)
 NWL,Newell Rubbermaid Inc. (NWL)
 PTEN,"Patterson-UTI Energy, Inc. (PTEN)"
 DOX,Amdocs Limited (DOX)
 SAFC,SAFECO Corporation (SAFC)
 GRP,"Grant Prideco, Inc. (GRP)"
-WYNN,"Wynn Resorts, Limited (WYNN)"
-UST,UST Inc. (UST)
 GWW,"W.W. Grainger, Inc. (GWW)"
-SAY,Satyam Computer Services Limited (SAY)
 GGB,Gerdau S.A. (GGB)
 LRCX,Lam Research Corporation (LRCX)
-BER,W.R. Berkley Corporation (BER)
 KSE,KeySpan Corporation (KSE)
-PHI,Philippine Long Distance Telephone Company (PHI)
 ERF,Enerplus Resources Fund (ERF)
 HRS,Harris Corporation (HRS)
 RHI,Robert Half International Inc. (RHI)
@@ -677,21 +610,16 @@ SEPR,Sepracor Inc. (SEPR)
 AIZ,"Assurant, Inc. (AIZ)"
 WPO,Washington Post Company (The) (WPO)
 WFR,"MEMC Electronic Materials, Inc. (WFR)"
-FLEX,Flextronics International Ltd. (FLEX)
 MTG,MGIC Investment Corporation (MTG)
-RE,"Everest Re Group, Ltd. (RE)"
 AVY,Avery Dennison Corporation (AVY)
 OCR,"Omnicare, Inc. (OCR)"
 LYO,Lyondell Chemical Company (LYO)
 MOS,Mosaic Company (The) (MOS)
-AN,"AutoNation, Inc. (AN)"
-DISH,EchoStar Communications Corporation (DISH)
 TMK,Torchmark Corporation (TMK)
 ANF,Abercrombie & Fitch Company (ANF)
 XMSR,XM Satellite Radio Holdings Inc. (XMSR)
 CBH,"Commerce Bancorp, Inc. (CBH)"
 STOSY,"Santos, Ltd. (STOSY)"
-FAST,Fastenal Company (FAST)
 MHK,"Mohawk Industries, Inc. (MHK)"
 TLAB,"Tellabs, Inc. (TLAB)"
 TLWT,Telewest Global Inc (TLWT)
@@ -699,20 +627,16 @@ WTM,"White Mountains Insurance Group, Ltd. (WTM)"
 PDE,"Pride International, Inc. (PDE)"
 RX,IMS Health Incorporated (RX)
 LUK,Leucadia National Corporation (LUK)
-AYE,"Allegheny Energy, Inc. (AYE)"
 HNT,Health Net Inc. (HNT)
 FMX,Formento Economico Mexicano S.A. de C.V. (FMX)
 LXK,"Lexmark International, Inc. (LXK)"
 IWD,iShares Russell 1000 Value Index Fund (IWD)
 TMS,THOMSON multimedia S.A. (TMS)
 ACI,"Arch Coal, Inc. (ACI)"
-NI,Northern Indiana Public Service Company (NI)
-BOT,"CBOT Holdings, Inc. (BOT)"
 DVA,DaVita Inc. (DVA)
 CVC,Cablevision Systems Corporation (CVC)
 CGA,CORUS GROUP PLC (CGA)
 CMVT,"Comverse Technology, Inc. (CMVT)"
-CAM,Cooper Cameron Corporation (CAM)
 IRM,Iron Mountain Incorporated (IRM)
 WSH,Willis Group Holdings Limited (WSH)
 TMO,Thermo Electron Corporation (TMO)
@@ -726,10 +650,7 @@ DG,Dollar General Corporation (DG)
 VTI,Vanguard Total Stock Market VIPERs (VTI)
 ABI,Applera Corporation (ABI)
 HBAN,Huntington Bancshares Incorporated (HBAN)
-CHA,China Telecom Corp Ltd (CHA)
 STZ,"Constellation Brands, Inc. (STZ)"
-TOL,Toll Brothers Inc. (TOL)
-TIN,Temple-Inland Inc. (TIN)
 CHKP,Check Point Software Technologies Ltd. (CHKP)
 RSG,"Republic Services, Inc. (RSG)"
 NXTP,"Nextel Partners, Inc. (NXTP)"
@@ -737,7 +658,6 @@ RHAT,"Red Hat, Inc. (RHAT)"
 DF,Dean Foods Company (DF)
 ATI,Allegheny Technologies Incorporated (ATI)
 REXMY,"Rexam, Plc (REXMY)"
-MAC,Macerich Company (The) (MAC)
 GYI,"Getty Images, Inc. (GYI)"
 HMA,"Health Management Associates, Inc. (HMA)"
 MNST,"Monster Worldwide, Inc. (MNST)"
@@ -766,24 +686,19 @@ DNB,Dun & Bradstreet Corporation (The) (DNB)
 LBTYK,"Liberty Global, Inc. (LBTYK)"
 BMC,"BMC Software, Inc. (BMC)"
 IWF,iShares Russell 1000 Growth Index Fund (IWF)
-JOE,St. Joe Company (The) (JOE)
 SANYY,"Sanyo Electric Co., Ltd. (SANYY)"
 FHN,First Tennessee National Corporation (FHN)
 HUN,Huntsman Corporation (HUN)
 PDCO,Patterson Companies Inc. (PDCO)
 RDN,Radian Group Inc. (RDN)
-ASH,Ashland Inc. (ASH)
 WDC,Western Digital Corporation (WDC)
 AAP,ADVANCE AUTO PARTS INC (AAP)
 CKFR,CheckFree Corporation (CKFR)
-MAN,Manpower Inc (MAN)
 MRBK,Mercantile Bankshares Corporation (MRBK)
 AMLN,"Amylin Pharmaceuticals, Inc. (AMLN)"
-WAT,Waters Corporation (WAT)
 MX,Metso Corporation (MX)
 TNE,Tele Norte Leste Participacoes S.A. (TNE)
 BF/B,Brown-Forman Corporation (BF/B)
-EL,"Estee Lauder Companies, Inc. (The) (EL)"
 APCC,American Power Conversion Corporation (APCC)
 CBG,CB Richard Ellis Group Inc (CBG)
 HRL,Hormel Foods Corporation (HRL)
@@ -792,13 +707,11 @@ NYB,"New York Community Bancorp, Inc. (NYB)"
 SCG,SCANA Corporation (SCG)
 WSM,"Williams-Sonoma, Inc. (WSM)"
 KRI,"Knight-Ridder, Inc. (KRI)"
-SEE,Sealed Air Corporation (SEE)
 BEAS,"BEA Systems, Inc. (BEAS)"
 STN,"Station Casinos, Inc. (STN)"
 CMI,Cummins Inc. (CMI)
 AMCR,Amcor Limited (AMCR)
 KG,"King Pharmaceuticals, Inc. (KG)"
-LEG,"Leggett & Platt, Incorporated (LEG)"
 APH,Amphenol Corporation (APH)
 JNS,Stilwell Financial Inc. (JNS)
 MIK,"Michaels Stores, Inc. (MIK)"
@@ -818,19 +731,14 @@ NVR,"NVR, Inc. (NVR)"
 PCW,Pacific Century CyberWorks Limited (PCW)
 CSB,"Ciba Specialty Chemicals Holding, Inc. (CSB)"
 STU,Student Loan Corporation (The) (STU)
-REG,Regency Centers Corporation (REG)
-SIAL,Sigma-Aldrich Corporation (SIAL)
 CTL,"CenturyTel, Inc. (CTL)"
-POM,Potomac Electric Power Company (POM)
 SVU,SuperValu Inc. (SVU)
 IPG,"Interpublic Group of Companies, Inc. (The) (IPG)"
 PBCT,People's Bank (PBCT)
 MDU,MDU RES GROUP INC (MDU)
-CIG,Comp En De Mn Cemig ADS (CIG)
 TKS,Tomkins PLC (TKS)
 MYL,"Mylan Laboratories, Inc. (MYL)"
 USG,USG Corporation (USG)
-SHY,iShares Lehman 1-3 Year Treasury Bond Fund (SHY)
 GTK,GTECH Holdings Corporation (GTK)
 XRAY,DENTSPLY International Inc. (XRAY)
 PNW,Pinnacle West Capital Corporation (PNW)
@@ -872,37 +780,79 @@ PPDI,"Pharmaceutical Product Development, Inc. (PPDI)"
 LRY,Liberty Property Trust (LRY)
 BRO,"Brown & Brown, Inc. (BRO)"
 CNP,"CenterPoint Energy, Inc (Holding Co) (CNP)"
-Company,Molson Coors Brewing (Company)
+ACGL,Arch Capital Group Ltd. (ACGL)
+ACF,AmeriCredit Corporation (ACF)
+EMN,Eastman Chemical Company (EMN)
+MLM,"Martin Marietta Materials, Inc. (MLM)"
+NVLS,"Novellus Systems, Inc. (NVLS)"
+ATVI,"Activision, Inc. (ATVI)"
+DST,"DST Systems, Inc. (DST)"
+NRG,"NRG Energy, Inc. (NRG)"
+MFE,"Networks Associates, Inc. (MFE)"
+ALD,Allied Capital Corporation (ALD)
+PNR,"Pentair, Inc. (PNR)"
+BNL,"Bunzl, plc (BNL)"
+RRC,Range Resources Corporation (RRC)
+TSS,"Total System Services, Inc. (TSS)"
+PMI,"PMI Group, Inc. (The) (PMI)"
+ACAS,"American Capital Strategies, Ltd. (ACAS)"
+CNB,"Colonial BancGroup, Inc. (The) (CNB)"
+MICC,Millicom International Cellular S.A. (MICC)
+KWK,Quicksilver Resources Inc. (KWK)
+BVN,"Compania Mina Buenaventura, S.A. (BVN)"
+IJD,Indiana Michigan Power Co. (IJD)
+ENDP,Endo Pharmaceuticals Holdings Inc. (ENDP)
+VRTX,Vertex Pharmaceuticals Incorporated (VRTX)
+NOVL,"Novell, Inc. (NOVL)"
+HCP,"Health Care Property Investors, Inc. (HCP)"
+SVM,ServiceMaster Company (The) (SVM)
+LOGI,Logitech International S.A. (LOGI)
+XEC,Cimarex Energy Co (XEC)
+MDR,"McDermott International, Inc. (MDR)"
+EV,Eaton Vance Corporation (EV)
+FDO,"Family Dollar Stores, Inc. (FDO)"
+LIZ,"Liz Claiborne, Inc. (LIZ)"
+BEC,"Beckman Coulter, Inc. (BEC)"
+CPS,ChoicePoint Inc. (CPS)
+CNO,"Conseco, Inc. (CNO)"
+CYN,City National Corporation (CYN)
+JBHT,"J.B. Hunt Transport Services, Inc. (JBHT)"
+BDM,"Merrill Lynch & Co., Inc. (BDM)"
+ORLY,"O'Reilly Automotive, Inc. (ORLY)"
+EAS,Energy East Corporation (EAS)
+WPI,"Watson Pharmaceuticals, Inc. (WPI)"
+JNY,"Jones Apparel Group, Inc. (JNY)"
+IVGN,Invitrogen Corporation (IVGN)
+TRZ,TRIZEC PROPERTIES INC (TRZ)
+CXG,CNX Gas Corporation (CXG)
+BC,Brunswick Corporation (BC)
+OSK,Oshkosh Truck Corporation (OSK)
+TSN,"Tyson Foods, Inc. (TSN)"
+WTR,"Aqua America, Inc. (WTR)"
 BOL,Bausch & Lomb Incorporated (BOL)
 WRI,Weingarten Realty Investors (WRI)
 WES,WestCorp (WES)
 BVF,Biovail Corporation (BVF)
-AGE,"A.G. Edwards, Inc. (AGE)"
 PPP,Pogo Producing Company (PPP)
 PETM,"PETsMART, Inc. (PETM)"
 PLL,Pall Corporation (PLL)
 CEN,Ceridian Corporation (CEN)
 LSI,LSI Logic Corporation (LSI)
-MIL,Millipore Corporation (MIL)
 WGR,"Western Gas Resources, Inc. (WGR)"
 MKC,"McCormick & Company, Incorporated (MKC)"
 AVT,"Avnet, Inc. (AVT)"
 SLG,SL Green Realty Corporation (SLG)
 FTI,"FMC Technologies, Inc. (FTI)"
-TE,"TECO Energy, Inc. (TE)"
 CVD,Covance Inc. (CVD)
 FL,"Venator Group, Inc. (FL)"
 FRK,"Florida Rock Industries, Inc. (FRK)"
 RBK,REEBOK INTL LTD (RBK)
-TRI,"Triad Hospitals, Inc. (TRI)"
 FSL,Freescale Semiconductor Inc (FSL)
 FRT,Federal Realty Investment Trust (FRT)
 EPE,Enterprise GP Holdings L.P. (EPE)
 PXP,Plains Exploration & Production Company (PXP)
 JNC,John Nuveen Company (The) (JNC)
-EAT,"Brinker International, Inc. (EAT)"
 PRE,PartnerRe Ltd. (PRE)
-TIP,iShares Lehman TIPS Bond Fund (TIP)
 RL,Polo Ralph Lauren Corporation (RL)
 UDR,"United Dominion Realty Trust, Inc. (UDR)"
 TEX,Terex Corporation (TEX)
@@ -911,10 +861,8 @@ LNT,Alliant Energy Corporation (LNT)
 ADS,Alliance Data Systems Corporation (ADS)
 ROP,"Roper Industries, Inc. (ROP)"
 CBSH,"Commerce Bancshares, Inc. (CBSH)"
-DADE,"Dade Behring Holdings, Inc (DADE)"
 COGN,Cognos Incorporated (COGN)
 OSI,"Outback Steakhouse, Inc. (OSI)"
-CERN,Cerner Corporation (CERN)
 NDAQ,"Nasdaq Stock Market, Inc. (The) (NDAQ)"
 HCC,"HCC Insurance Holdings, Inc. (HCC)"
 TER,"Teradyne, Inc. (TER)"
@@ -940,7 +888,6 @@ GSL,GLOBAL SIGNAL INC (GSL)
 UTIW,UTi Worldwide Inc. (UTIW)
 HSC,Harsco Corporation (HSC)
 GLD,Streettracks Gold Trust (GLD)
-RA,Reckson Associates Realty Corporation (RA)
 PDLI,"PDL BioPharma, Inc. (PDLI)"
 ICBC,Independence Community Bank Corp. (ICBC)
 ERIE,Erie Indemnity Company (ERIE)
@@ -951,7 +898,6 @@ CDIS,"Cal Dive International, Inc. (CDIS)"
 WFSI,WFS Financial Inc. (WFSI)
 RJF,"Raymond James Financial, Inc. (RJF)"
 SSCC,Smurfit-Stone Container Corporation (SSCC)
-CE,Celanese Corporation (CE)
 RYN,Rayonier Inc. REIT (RYN)
 RCI,"Renal Care Group, Inc. (RCI)"
 RNR,RenaissanceRe Holdings Ltd. (RNR)
@@ -973,15 +919,54 @@ ZBRA,Zebra Technologies Corporation (ZBRA)
 IJH,iShares S&P MidCap 400 Index Fund (IJH)
 JEF,"Jefferies Group, Inc. (JEF)"
 HNI,HON INDUSTRIES Inc. (HNI)
-SIG,Signet Group plc (SIG)
 VTR,"Ventas, Inc. (VTR)"
+ESI,"ITT Educational Services, Inc. (ESI)"
+AMG,"Affiliated Managers Group, Inc. (AMG)"
+PAA,"Plains All American Pipeline, L.P. (PAA)"
+KNM,Konami Corporation (KNM)
+CG,Loews Corporation (CG)
+BWA,BorgWarner Inc. (BWA)
+SPW,SPX Corporation (SPW)
+ANAT,American National Insurance Company (ANAT)
+KMX,CARMAX INC (KMX)
+PL,Protective Life Corporation (PL)
+SPP,Sappi Limited (SPP)
+BCO,Pittston Company (The) (BCO)
+AGU,Agrium Inc. (AGU)
+CCK,"Crown Cork & Seal Company, Inc. (CCK)"
+RHA,Rhodia SA (RHA)
+LPX,Louisiana-Pacific Corporation (LPX)
+LZ,Lubrizol Corporation (The) (LZ)
+CHH,"Choice Hotels International, Inc. (CHH)"
+SBL,"Symbol Technologies, Inc. (SBL)"
+JHX,James Hardie Industries NV (JHX)
+HPT,Hospitality Properites Trust (HPT)
+RRI,"Reliant Resources, Inc. (RRI)"
+CSE,CAPITALSOURCE INC (CSE)
+HCR,"Manor Care, Inc. (HCR)"
+MCY,Mercury General Corporation (MCY)
+IVW,iShares S&P 500/BARRA Growth Index Fund (IVW)
+NST,NSTAR (NST)
+LVLT,"Level 3 Communications, Inc. (LVLT)"
 Manufacturing International Corporation,Semiconductor (Manufacturing International Corporation)
+APCS,"Alamosa Holdings, Inc. (APCS)"
+IFF,"Internationa Flavors & Fragrances, Inc. (IFF)"
+IVE,iShares S&P 500/BARRA Value Index Fund (IVE)
+IFIN,Investors Financial Services Corp. (IFIN)
+MOLX,Molex Incorporated (MOLX)
+UTR,"Unitrin, Inc. (UTR)"
+ARI,"Arden Realty, Inc. (ARI)"
+RGA,"Reinsurance Group of America, Incorporated (RGA)"
+BOKF,BOK Financial Corporation (BOKF)
+IMCL,ImClone Systems Incorporated (IMCL)
+AF,Astoria Financial Corporation (AF)
+HB,"Hillenbrand Industries, Inc. (HB)"
+CEM,Crompton Corporation (CEM)
+CBI,Chicago Bridge & Iron Company N.V. (CBI)
 BZH,"Beazer Homes USA, Inc. (BZH)"
-FRO,Frontline Ltd. (FRO)
 RSH,Radioshack Corporation (RSH)
 ARG,"Airgas, Inc. (ARG)"
 CLE,"Claire's Stores, Inc. (CLE)"
-NU,Northeast Utilities (NU)
 WMG,Warner Music Group Corp. (WMG)
 SFD,"Smithfield Foods, Inc. (SFD)"
 PKI,"PerkinElmer, Inc. (PKI)"
@@ -994,13 +979,10 @@ AFG,"American Financial Group, Inc. (AFG)"
 GPM,General Motors Corporation (GPM)
 NIS,NISSIN CO LTD (NIS)
 YRCW,"YRC Worldwide, Inc. (YRCW)"
-CAKE,Cheesecake Factory Incorporated (The) (CAKE)
 F^S,FORD MTR CO CAP TR II (F^S)
 GIL,"Gildan Activewear, Inc. (GIL)"
-AME,"AMTEK, Inc. (AME)"
 SGMS,Scientific Games Corp (SGMS)
 AVX,AVX Corporation (AVX)
-R,"Ryder System, Inc. (R)"
 FIC,"Fair, Isaac and Company, Incorporated (FIC)"
 BDN,Brandywine Realty Trust (BDN)
 EGN,Energen Corporation (EGN)
@@ -1013,13 +995,11 @@ FCE/A,Forest City Enterprises Inc (FCE/A)
 MDC,"M.D.C. Holdings, Inc. (MDC)"
 SHU,"Shurgard Storage Centers, Inc. (SHU)"
 SGR,Shaw Group Inc. (The) (SGR)
-ICE,"Intercontinentalexchange, Inc. (ICE)"
 FULT,Fulton Financial Corporation (FULT)
 PNP,"Pan Pacific Retail Properties, Inc. (PNP)"
 JLG,"JLG Industries, Inc. (JLG)"
 WL,Wilmington Trust Corporation (WL)
 BUH,Buhrmann Nv (BUH)
-BAP,Credicorp Ltd. (BAP)
 SUG,Southern Union Company (SUG)
 RMD,ResMed Inc. (RMD)
 BKS,"Barnes & Noble, Inc. (BKS)"
@@ -1036,10 +1016,7 @@ OKE,"ONEOK, Inc. (OKE)"
 UNT,Unit Corporation (UNT)
 GGG,Graco Inc. (GGG)
 VAL,Valspar Corporation (The) (VAL)
-THE,TODCO (THE)
 MDZ,"MDS, Inc. (MDZ)"
-LI,"Laidlaw International, Inc. (LI)"
-VIA,"Viacom, Inc. (VIA)"
 BOBJ,Business Objects S.A. (BOBJ)
 MDG,Meridian Gold Inc. (MDG)
 TNB,Thomas & Betts Corporation (TNB)
@@ -1048,7 +1025,6 @@ PZE,Petrobras Energia Participaciones SA (PZE)
 CBL,"CBL & Associates Properties, Inc. (CBL)"
 USM,United States Cellular Corporation (USM)
 DBD,"Diebold, Incorporated (DBD)"
-TIE,Titanium Metals Corporation (TIE)
 TMA,"Thornburg Mortgage, Inc. (TMA)"
 SKS,Saks Incorporated (SKS)
 VSH,"Vishay Intertechnology, Inc. (VSH)"
@@ -1057,7 +1033,6 @@ FTO,Frontier Oil Corporation (FTO)
 PENN,"Penn National Gaming, Inc. (PENN)"
 BOH,Bank of Hawaii Corporation (BOH)
 SPF,Standard Pacific Lp (SPF)
-SLAB,"Silicon Laboratories, Inc. (SLAB)"
 SRP,Sierra Pacific Resources (SRP)
 AGG,iShares Lehman Aggregate Bond Fund (AGG)
 DLTR,"Dollar Tree Stores, Inc. (DLTR)"
@@ -1070,13 +1045,10 @@ NDE,"IndyMac Bancorp, Inc. (NDE)"
 NATI,National Instruments Corporation (NATI)
 FMS^,FRESENIUS MED CARE AG (FMS^)
 BLK,"BlackRock, Inc. (BLK)"
-GOL,Gol Linhas Aereas Inteligentes S.A. (GOL)
 VLY,Valley National Bancorp (VLY)
 THG,Allmerica Financial Corporation (THG)
 HLTH,Emdeon Corporation (HLTH)
-RESP,"Respironics, Inc. (RESP)"
 GNTX,Gentex Corporation (GNTX)
-LAUR,"Laureate Education, Inc. (LAUR)"
 TPP,"TEPPCO Partners, L.P. (TPP)"
 FFH,Fairfax Financial Holdings Ltd (FFH)
 PWI,PrimeWest Energy Trust (PWI)
@@ -1094,7 +1066,6 @@ FLS,Flowserve Corporation (FLS)
 SJM,J.M. Smucker Company (The) (SJM)
 AFFX,"Affymetrix, Inc. (AFFX)"
 WBS,Webster Financial Corporation (WBS)
-COG,Cabot Oil & Gas Corporation (COG)
 CNH,CNH Global N.V. (CNH)
 TRN,"Trinity Industries, Inc. (TRN)"
 WSC,Wesco Financial Corporation (WSC)
@@ -1104,7 +1075,6 @@ LSTR,"Landstar System, Inc. (LSTR)"
 MEOH,Methanex Corporation (MEOH)
 PIO,Pioneer Corporation (PIO)
 SM,St. Mary Land (SM)
-COO,"Cooper Companies, Inc. (The) (COO)"
 CBT,Cabot Corporation (CBT)
 WLT,"Walter Industries, Inc. (WLT)"
 IDXX,"IDEXX Laboratories, Inc. (IDXX)"
@@ -1117,10 +1087,8 @@ SOSA,Stolt Offshore S.A. (SOSA)
 SCI,Service Corporation International (SCI)
 ARMHY,"ARM Holdings, plc (ARMHY)"
 ABER,Aber Diamond Corporation (ABER)
-ANN,AnnTaylor Stores Corporation (ANN)
 APPX,"American Pharmaceutical Partners, Inc. (APPX)"
 UHS,"Universal Health Services, Inc. (UHS)"
-THO,"Thor Industries, Inc. (THO)"
 CNT,CenterPoint Properties Trust (CNT)
 HLF,Herbalife LTD. (HLF)
 HAVS,Havas (HAVS)
@@ -1162,22 +1130,16 @@ EDMC,Education Management Corporation (EDMC)
 DRC,Dresser-Rand Group Inc. (DRC)
 NTES,"Netease.com, Inc. (NTES)"
 KAR,Adesa Inc (KAR)
-Y,Alleghany Corporation (Y)
 CYT,Cytec Industries Inc. (CYT)
-WOOF,"VCA Antech, Inc. (WOOF)"
 UIS,Unisys Corporation (UIS)
 URI,"United Rentals, Inc. (URI)"
 CPRT,"Copart, Inc. (CPRT)"
-SIE,"Sierra Health Services, Inc. (SIE)"
 HOV,HOVNANIAN ENTERPRISES INC (HOV)
 PII,Polaris Industries Inc. (PII)
 CRS,Carpenter Technology Corporation (CRS)
-ESS,"Essex Property Trust, Inc. (ESS)"
 WCC,"WESCO International, Inc. (WCC)"
 LII,"Lennox International, Inc. (LII)"
-LEAP,"Leap Wireless International, Inc. (LEAP)"
 MGI,"Moneygram International, Inc. (MGI)"
-NEW,New Century Financial Corp. (NEW)
 KMT,Kennametal Inc. (KMT)
 UGI,UGI Corporation (UGI)
 HRP,HRPT Properties Trust (HRP)
@@ -1194,14 +1156,12 @@ SANM,Sanmina-SCI Corporation (SANM)
 AGR,Agere Systems Inc (AGR)
 GGY,Compagnie Generale de Geophysique (GGY)
 ALKS,"Alkermes, Inc. (ALKS)"
-TECH,Techne Corporation (TECH)
 BNG,Benetton Group SPA (BNG)
 HOC,Holly Corporation (HOC)
 RBS^F,ROYAL BK SCOTLAND GROUP PLC (RBS^F)
 BKD,Brookdale Senior Living Inc. (BKD)
 TY,Tri Continental Corporation (TY)
 TPK,Travelers Property Casualty Corporation (TPK)
-IN,"UNOVA, Inc. (IN)"
 BJ,"BJ's Wholesale Club, Inc. (BJ)"
 ENH,Endurance Specialty Holdings Ltd (ENH)
 MDP,Meredith Corporation (MDP)
@@ -1226,9 +1186,7 @@ RES,"RPC, Inc. (RES)"
 URS,URS Corporation (URS)
 CSL,Carlisle Companies Incorporated (CSL)
 ATO,Atmos Energy Corporation (ATO)
-HE,"Hawaiian Electric Industries, Inc. (HE)"
 HNP,Huaneng Power Intl (HNP)
-ARA,Aracruz Celulose S.A. (ARA)
 FDRY,"Foundry Networks, Inc. (FDRY)"
 CHRT,Chartered Semiconductor Manufacturing Ltd. (CHRT)
 MSM,"MSC Industrial Direct Company, Inc. (MSM)"
@@ -1240,22 +1198,18 @@ FMER,FirstMerit Corporation (FMER)
 RHD,R.H. Donnelley Corporation (RHD)
 WTNY,Whitney Holding Corporation (WTNY)
 VVC,Vectren Corporation (VVC)
-POOL,SCP Pool Corporation (POOL)
 TDS/S,TELEPHONE & DATA SYS INC (TDS/S)
 EWBC,"East West Bancorp, Inc. (EWBC)"
 CLP,Colonial Properties Trust (CLP)
 ANDW,Andrew Corporation (ANDW)
-AVID,"Avid Technology, Inc. (AVID)"
 NBP,"Northern Border Partners, L.P. (NBP)"
 JLL,Jones Lang LaSalle Incorporated (JLL)
 MVK,Maverick Tube Corporation (MVK)
 MLHR,"Herman Miller, Inc. (MLHR)"
-ANT,Anteon International Corporation (ANT)
 SEB,Seaboard Corporation (SEB)
 CBRL,CBRL Group Inc. (CBRL)
 HYSL,Hyperion Solutions Corporation (HYSL)
 WLK,Westlake Chemical Corporation (WLK)
-ALB,Albemarle Corporation (ALB)
 OSG,"Overseas Shipholding Group, Inc. (OSG)"
 KOSP,"Kos Pharmaceuticals, Inc. (KOSP)"
 FMD,First Marblehead Corporation (The) (FMD)
@@ -1276,12 +1230,9 @@ STLD,"Steel Dynamics, Inc. (STLD)"
 BCF,Burlington Coat Factory Corporation (BCF)
 ABGX,"Abgenix, Inc. (ABGX)"
 FR,"First Industrial Realty Trust, Inc. (FR)"
-PALM,"Palm, Inc. (PALM)"
 KF,"Korea Fund, Inc. (The) (KF)"
 TCP,Telesp Celular Participacoes S.A. (TCP)
-ARE,"Alexandria Real Estate Equities, Inc. (ARE)"
 MEU,"MetLife, Inc. (MEU)"
-CREE,"Cree, Inc. (CREE)"
 MSCC,Microsemi Corporation (MSCC)
 ATR,"AptarGroup, Inc. (ATR)"
 MNT,Mentor Corporation (MNT)
@@ -1296,7 +1247,6 @@ MMP,Magellan Midstream Partners L.P. (MMP)
 COLM,Columbia Sportswear Company (COLM)
 KRC,Kilroy Realty Corporation (KRC)
 SY,"Sybase, Inc. (SY)"
-O,Realty Income Corporation (O)
 TSFG,South Financial Group Inc. (The) (TSFG)
 HANS,Hansen Natural Corporation (HANS)
 HXM,Desarrolladora Homex (HXM)
@@ -1307,7 +1257,6 @@ HXL,Hexcel Corporation (HXL)
 ONNN,ON Semiconductor Corporation (ONNN)
 OCAS,Ohio Casualty Corporation (OCAS)
 LNG,"Cheniere Energy, Inc. (LNG)"
-AGO,ASSURED GUARANTY LTD (AGO)
 TTC,Toro Company (The) (TTC)
 NUV,"Nuveen Municipal Value Fund, Inc. (NUV)"
 NFJ,"NFJ Dividend, Interest & Premium Strategy Fund (NFJ)"
@@ -1325,7 +1274,6 @@ XLF,Select Sector SPDR Fund - Financial (XLF)
 IWV,iShares Russell 3000 Index Fund (IWV)
 VCLK,"ValueClick, Inc. (VCLK)"
 GES,"Guess?, Inc. (GES)"
-RAD,Rite Aid Corporation (RAD)
 CWTR,"Coldwater Creek, Inc. (CWTR)"
 VSEA,"Varian Semiconductor Equipment Associates, Inc. (VSEA)"
 LECO,"Lincoln Electric Holdings, Inc. (LECO)"
@@ -1356,7 +1304,6 @@ CGI,"Commerce Group, Inc. (The) (CGI)"
 ETW,Eaton Vance Corporation (ETW)
 OXPS,"optionsXpress Holdings, Inc. (OXPS)"
 KYPH,Kyphon Inc. (KYPH)
-GAS,Nicor Inc. (GAS)
 MW,"Men's Wearhouse, Inc. (The) (MW)"
 BXS,"BancorpSouth, Inc. (BXS)"
 EQY,"Equity One, Inc. (EQY)"
@@ -1371,16 +1318,13 @@ CORS,"CORUS Bankshares, Inc. (CORS)"
 WR,"Westar Energy, Inc. (WR)"
 EAC,Encore Acquisition Company (EAC)
 PTF,NCE Petrofund (PTF)
-CAL,"Continental Airlines, Inc. (CAL)"
 COMS,3Com Corporation (COMS)
 PTP,Platinum Underwriters Holdings Ltd (PTP)
-AXE,Anixter International Inc. (AXE)
 REY,Reynolds and Reynolds Company (The) (REY)
 MCRS,"MICROS Systems, Inc. (MCRS)"
 CLC,CLARCOR Inc. (CLC)
 LPNT,"LifePoint Hospitals, Inc. (LPNT)"
 JQC,Nuveen Preferred and Convertible Income Fund 2 (JQC)
-PER,Perot Systems Corporation (PER)
 RGS,Regis Corporation (RGS)
 SIVB,SVB Financial Group (SIVB)
 QGEN,Qiagen N.V. (QGEN)
@@ -1391,14 +1335,12 @@ XLU,Select Sector SPDR Fund - Utilities (XLU)
 PMTC,Parametric Technology Corporation (PMTC)
 PMCS,"PMC - Sierra, Inc. (PMCS)"
 EVV,Eaton Vance Limited Duration Income Fund (EVV)
-GET,Gaylord Entertainment Company (GET)
 IPCR,"IPC Holdings, Limited (IPCR)"
 NKTR,Nektar Therapeutics (NKTR)
 PSYS,"Psychiatric Solutions, Inc. (PSYS)"
 SWFT,"Swift Transportation Co., Inc. (SWFT)"
 BIDU,"Baidu.com, Inc. (BIDU)"
 WABC,Westamerica Bancorporation (WABC)
-PAY,"Veriphone Holdings, Inc. (PAY)"
 UHAL,Amerco (UHAL)
 CBS/A,CBS CORP NEW (CBS/A)
 PHK,Pimco High Income Fund (PHK)
@@ -1413,11 +1355,9 @@ WERN,"Werner Enterprises, Inc. (WERN)"
 BPL,Buckeye Partners L.P. (BPL)
 GME,Gamestop Corporation (GME)
 NTRI,Nutri/System Inc (NTRI)
-ABY,"Abitibi-Consolidated, Inc. (ABY)"
 WLL,Whiting Petroleum Corporation (WLL)
 ORH,Odyssey Re Holdings Corporation (ORH)
 HIW,"Highwoods Properties, Inc. (HIW)"
-LEA,Lear Corporation (LEA)
 AQNT,"aQuantive, Inc. (AQNT)"
 ZQK,"Quiksilver, Inc. (ZQK)"
 AYI,ACUITY BRANDS INC (AYI)
@@ -1436,7 +1376,6 @@ MRX,Medicis Pharmaceutical Corporation (MRX)
 BRY,Berry Petroleum Company (BRY)
 CXW,Corrections Corporation of America (CXW)
 EVT,Eaton Vance Tax Advantaged Dividend Income Fund (EVT)
-HEW,Hewitt Associates Inc (HEW)
 JAH,Jarden Corporation (JAH)
 SMV/A,Smedvig Asa Ads Cla (SMV/A)
 DYN,Dynegy Inc. (DYN)
@@ -1450,7 +1389,6 @@ BBG,Bill Barrett Corporation (BBG)
 SIRF,"SiRF Technology Holdings, Inc. (SIRF)"
 GMK,"GRUMA, S.A. de C.V. (GMK)"
 VRX,Valeant Pharmaceuticals International (VRX)
-AH,"Armor Holdings, Inc. (AH)"
 DPZ,Domino's Pizza Inc (DPZ)
 RI,"Ruby Tuesday, Inc. (RI)"
 WSO,"Watsco, Inc. (WSO)"
@@ -1462,7 +1400,6 @@ ROS,Rostelecom (ROS)
 FLIR,"FLIR Systems, Inc. (FLIR)"
 BGP,"Borders Group, Inc. (BGP)"
 ARO,Aeropostale Inc (ARO)
-BE,BEARINGPOINT INC (BE)
 BRP,Brasil Telecom Participacoes S.A. (BRP)
 HYDL,Hydril (HYDL)
 SIGI,"Selective Insurance Group, Inc. (SIGI)"
@@ -1472,7 +1409,6 @@ CHR,Converium Holding AG (CHR)
 ABN^G,ABN AMRO CAP FDG TR VII (ABN^G)
 IJS,iShares Small Cap 600/BARRA Value Index Fund (IJS)
 AG,AGCO Corporation (AG)
-MIM,MI Developments Inc (MIM)
 AVCT,Avocent Corporation (AVCT)
 SVR,"Syniverse Holdings, Inc. (SVR)"
 CRR,"Carbo Ceramics, Inc. (CRR)"
@@ -1502,8 +1438,6 @@ CNXT,"Conexant Systems, Inc. (CNXT)"
 BHS,Brookfield Homes Corp (BHS)
 ICOS,ICOS Corporation (ICOS)
 PRA,Pro-Assurance Corporation (PRA)
-COLT,COLT Telecom Group plc (COLT)
-OII,"Oceaneering International, Inc. (OII)"
 WCG,Wellcare Group (WCG)
 FMBI,"First Midwest Bancorp, Inc. (FMBI)"
 TRMK,Trustmark Corporation (TRMK)
@@ -1521,13 +1455,11 @@ IKN,"IKON Office Solutions, Inc. (IKN)"
 WBSN,"Websense, Inc. (WBSN)"
 TRK,"Speedway Motorsports, Inc. (TRK)"
 IWR,iShares Russell MidCap Index Fund (IWR)
-ROC,"Rockwood Holdings, Inc. (ROC)"
 RDA,"Reader's Digest Association, Inc. (The) (RDA)"
 AHC^,AMERADA HESS CORP (AHC^)
 GEMP,Gemplus International S.A. (GEMP)
 GDV,Gabelli Dividend (GDV)
 FNFG,First Niagara Financial Group Inc. (FNFG)
-IT,"Gartner, Inc. (IT)"
 PRK,Park National Corporation (PRK)
 MEDX,"Medarex, Inc. (MEDX)"
 NX,Quanex Corporation (NX)
@@ -1541,7 +1473,6 @@ BEAV,"BE Aerospace, Inc. (BEAV)"
 MYOG,"Myogen, Inc. (MYOG)"
 RBA,Ritchie Bros. Auctioneers Incorporated (RBA)
 NHP,"Nationwide Health Properties, Inc. (NHP)"
-MORN,"Morningstar, Inc. (MORN)"
 ICO,"International Coal Group, Inc. (ICO)"
 HGT,Hugoton Royalty Trust (HGT)
 OCENY,Oce NV (OCENY)
@@ -1555,16 +1486,13 @@ SBF,Salomon Brothers Fund Inc. (SBF)
 CRDN,"Ceradyne, Inc. (CRDN)"
 TRBS,"Texas Regional Bancshares, Inc. (TRBS)"
 PVH,Phillips-Van Heusen Corporation (PVH)
-BOW,Bowater Incorporated (BOW)
 TOM,Tommy Hilfiger USA Inc (TOM)
 BLI,"Big Lots, Inc. (BLI)"
 WGL,Washington Gas Light Company (WGL)
 EFII,"Electronics for Imaging, Inc. (EFII)"
 ANR,"Alpha Natural Resources, inc. (ANR)"
 BPT,BP Prudhoe Bay Royalty Trust (BPT)
-FUN,"Cedar Fair, L.P. (FUN)"
 MXRE,Max Re Capital Ltd. (MXRE)
-WAB,Westinghouse Air Brake Technologies Corporation (WAB)
 GFIG,GFI Group Inc. (GFIG)
 PCH,Potlatch Corporation (PCH)
 YZC,Yanzhou Coal Mining Company Limited (YZC)
@@ -1585,7 +1513,6 @@ CHRS,"Charming Shoppes, Inc. (CHRS)"
 OLN,Olin Corporation (OLN)
 ROL,"Rollins, Inc. (ROL)"
 PTNR,Partner Communications Company Ltd. (PTNR)
-OS,"Oregon Steel Mills, Inc. (OS)"
 GW,"Grey Wolf, Inc. (GW)"
 ZGEN,"ZymoGenetics, Inc. (ZGEN)"
 VVR,Van Kampen Senior Income Trust (VVR)
@@ -1606,7 +1533,6 @@ CDL,Citadel Broadcasting Corporation (CDL)
 MPS,"Modis Professional Services, Inc. (MPS)"
 SQM,Sociedad Quimica y Minera S.A. (SQM)
 PNX,"Phoenix Companies, Inc. (The) (PNX)"
-KEX,Kirby Corporation (KEX)
 UCO,"Universal Compression Holdings, Inc. (UCO)"
 SDA,Sadia S.A. (SDA)
 ENTG,"Entegris, Inc. (ENTG)"
@@ -1618,7 +1544,6 @@ SFY,Swift Energy Company (SFY)
 ONB,Old National Bancorp Capital Trust I (ONB)
 XLK,Select Sector SPDR Fund - Technology (XLK)
 EXP,Eagle Materials Inc (EXP)
-SHO,"Sunstone Hotel Investors, Inc. (SHO)"
 WHI,W Holding Company Incorporated (WHI)
 KOMG,"Komag, Inc. New (KOMG)"
 SLGN,"Silgan Holdings, Inc. (SLGN)"
@@ -1637,7 +1562,6 @@ TW,21st Century Insurance Group (TW)
 ISBC,"Investors Bancorp, Inc. (ISBC)"
 IDCC,InterDigital Communications Corp. (IDCC)
 HRH,"Hilb, Rogal and Hamilton Company (HRH)"
-ALO,"Alpharma, Inc. (ALO)"
 NTY,"NBTY, Inc. (NTY)"
 WRE,Washington Real Estate Investment Trust (WRE)
 IAG,Iamgold Corporation (IAG)
@@ -1656,14 +1580,11 @@ GDI,"Gardner Denver, Inc. (GDI)"
 IDR,Intrawest Corporation (IDR)
 C^Z,CITIGROUP CAP VIII (C^Z)
 SCMR,"Sycamore Networks, Inc. (SCMR)"
-CHE,Roto-Rooter Inc (CHE)
 NUAN,"Nuance Communications, Inc. (NUAN)"
 NUS,"Nu Skin Enterprises, Inc. (NUS)"
 WWW,"Wolverine World Wide, Inc. (WWW)"
 DFG,"Delphi Financial Group, Inc. (DFG)"
 ILA,AQUILA INC (ILA)
-LEE,"Lee Enterprises, Incorporated (LEE)"
-ALFA,Alfa Corporation (ALFA)
 STTS,STATS ChipPAC Ltd. (STTS)
 REM,Remington Oil and Gas Corporation (REM)
 DLX,Deluxe Corporation (DLX)
@@ -1671,7 +1592,6 @@ LTM,Life Time Fitness (LTM)
 PNK,"Pinnacle Entertainment, Inc. (PNK)"
 CRK,"Comstock Resources, Inc. (CRK)"
 PFCB,"P.F.Chang's China Bistro, Inc. (PFCB)"
-TOA,Technical Olympic USA Inc (TOA)
 SFL,Ship Finance International (SFL)
 RNWK,"RealNetworks, Inc. (RNWK)"
 SGY,Stone Energy Corporation (SGY)
@@ -1682,14 +1602,11 @@ DKS,Dick's Sporting Goods Inc (DKS)
 BLUD,"Immucor, Inc. (BLUD)"
 FDP,"Fresh Del Monte Produce, Inc. (FDP)"
 BEV,Beverly Enterprises. Inc. (BEV)
-TUP,Tupperware Corporation (TUP)
-ALE,"Allete, Inc. (ALE)"
 EXP/B,EAGLE MATERIALS INC (EXP/B)
 CHZ,Chittenden Corporation (CHZ)
 VCI,"Valassis Communications, Inc. (VCI)"
 WSF,Wells Fargo Cap IX (WSF)
 HBHC,Hancock Holding Company (HBHC)
-WON,"Westwood One, Inc. (WON)"
 OVTI,"OmniVision Technologies, Inc. (OVTI)"
 USU,USEC Inc. (USU)
 HPC,Hercules Incorporated (HPC)
@@ -1727,12 +1644,9 @@ UEPS,"Net 1 UEPS Technologies, Inc. (UEPS)"
 ALX,"Alexander's, Inc. (ALX)"
 CJR,Corus Entertainmt Incorporated (CJR)
 WTFC,Wintrust Financial Corporation (WTFC)
-EME,"EMCOR Group, Inc. (EME)"
-GAP,"Great Atlantic & Pacific Tea Company, Inc. (The) (GAP)"
 LQ,Quinenco SA (LQ)
 USA,Liberty All-Star Equity Fund (USA)
 OEH,"Orient-Express Hotels, Ltd. (OEH)"
-STRA,"Strayer Education, Inc. (STRA)"
 ATMI,ATMI Inc. (ATMI)
 ICA,Empresas Ica Soc Contrladora (ICA)
 ANSL,Ansell Limited (ANSL)
@@ -1755,12 +1669,10 @@ HANA,hanarotelecom incorporated (HANA)
 UMPQ,Umpqua Holdings Corporation (UMPQ)
 BUCY,"Bucyrus International, Inc. (BUCY)"
 SLH,Strategic Hotel Capital Inc (SLH)
-LIN,"Linens 'n Things, Inc. (LIN)"
 KRON,Kronos Incorporated (KRON)
 NJR,NewJersey Resources Corporation (NJR)
 BMR,Biomed Realty Trust (BMR)
 PDA,Perdigao S.A. (PDA)
-AIT,"Applied Industrial Technologies, Inc. (AIT)"
 OMI,"Owens & Minor, Inc. (OMI)"
 UARM,"Under Armour, Inc. (UARM)"
 PLXS,Plexus Corp. (PLXS)
@@ -1775,10 +1687,8 @@ TRO,Tele Centro Oest Celular Participacoes S.A. (TRO)
 ARRS,Arris Group Inc (ARRS)
 SMH,Merrill Lynch Semiconductor HOLDRS (SMH)
 NIO,"Nuveen Insured Municipal Opportunity Fund, Inc. (NIO)"
-SINA,Sina Corporation (SINA)
 DGIN,Digital Insight Corporation (DGIN)
 HTV,"Hearst-Argyle Television, Inc. (HTV)"
-ARM,"ArvinMeritor, Inc. (ARM)"
 CEC,"CEC Entertainment, Inc. (CEC)"
 TSAI,"Transaction Systems Architects , Inc. (TSAI)"
 BN,Banta Corporation (BN)
@@ -1788,7 +1698,6 @@ IYH,iShares Dow Jones U.S. Health Care Index Fund (IYH)
 FBN,"Furniture Brands International, Inc. (FBN)"
 PTRY,"Pantry, Inc. (The) (PTRY)"
 WCI,WCI Communities Inc (WCI)
-GOLD,Randgold Resources Limited (GOLD)
 DTC,Domtar Incorporated (DTC)
 FWRD,Forward Air Corporation (FWRD)
 YSI,U-Store-It Trust (YSI)
@@ -1802,7 +1711,6 @@ MER^H,MERRILL LYNCH & CO INC (MER^H)
 JSN,Nuveen Equity Premium Opportunity Fund (JSN)
 PPT,Putnam Premier Income Trust (PPT)
 NRPH,New River Pharmaceuticals Inc. (NRPH)
-AM,American Greetings Corporation (AM)
 DRQ,"Dril-Quip, Inc. (DRQ)"
 ARP,American Reporgraphics Company (ARP)
 AHG,"Apria Healthcare Group, Inc. (AHG)"
@@ -1817,18 +1725,14 @@ CBCF,Citizens Banking Corporation (CBCF)
 MATW,Matthews International Corporation (MATW)
 MGLN,"Magellan Health Services, Inc. (MGLN)"
 FCH,FelCor Lodging Trust Incorporated (FCH)
-FORM,"FormFactor, Inc. (FORM)"
 NCT,Newcastle Investment Corporation (NCT)
-GAB,"Gabelli Equity Trust, Inc. (The) (GAB)"
 SBP,SANTANDER BANCORP (SBP)
 MWY,Midway Games Inc. (MWY)
-VARI,"Varian, Inc. (VARI)"
 CMED,"China Medical Technologies, Inc. (CMED)"
 ALAB,Alabama National BanCorporation (ALAB)
 SSAG,"SSA Global Technologies, Inc. (SSAG)"
 ELP,Companhia Paranaense de Energia (COPEL) (ELP)
 KFS,"Kingsway Financial Services, Inc. (KFS)"
-EGO,Eldorado Gold Corp (EGO)
 ITRI,"Itron, Inc. (ITRI)"
 DRIV,"Digital River, Inc. (DRIV)"
 DPTR,Delta Petroleum Corporation (DPTR)
@@ -1836,8 +1740,6 @@ JCOM,j2 Global Communications Inc (JCOM)
 MKSI,"MKS Instruments, Inc. (MKSI)"
 BKH,Black Hills Corporation (BKH)
 AVL,"Aviall, Inc. (AVL)"
-REV,"Revlon, Inc. (REV)"
-HAWK,Petrohawk Energy Corporation (HAWK)
 BDC,Belden CDT Inc (BDC)
 DRL,Doral Financial Corporation (DRL)
 SNDA,Shanda Interactive Entertainment Limited (SNDA)
@@ -1845,11 +1747,9 @@ AEA,"Advance America, Cash Advance Centers, Inc. (AEA)"
 PKD,Parker Drilling Company (PKD)
 DTAS,"Digitas, Inc. (DTAS)"
 PSSI,PSS World Medical Inc. (PSSI)
-FILE,FileNet Corporation (FILE)
 IEF,iShares Lehman 7-10 Year Treasury Bond Fund (IEF)
 QSII,"Quality Systems, Inc. (QSII)"
 ELY,Callaway Golf Company (ELY)
-SONS,"Sonus Networks, Inc. (SONS)"
 VRNT,Verint Systems Inc. (VRNT)
 GGC,Georgia Gulf Corporation (GGC)
 NITE,"Knight Capital Group, Inc. (NITE)"

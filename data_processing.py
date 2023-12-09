@@ -23,23 +23,24 @@ def expand_acronyms(text):
         text = re.sub(r'\b' + acronym + r'\b', expansion, text)
 
     for stock_market_acronym, stock_market_expansion in stock_market_acronyms.items():
-        text = re.sub(r'\b' + stock_market_acronym + r'\b', stock_market_expansion, text)
-    
-    for stock_market_acronym, stock_market_expansion in stock_market_acronyms.items():
-        text = re.sub(r'\b' + stock_market_acronym + r'\b', stock_market_expansion, text)
+        text = re.sub(r'\b' + stock_market_acronym + r'\b', stock_market_expansion, text, flags=re.IGNORECASE)
 
     for stock_acronym, stock_expansion in stock_acronyms.items():
-        text = re.sub(r'\b' + stock_acronym + r'\b', stock_expansion, text)
+        text = re.sub(r'\b' + stock_acronym + r'\b', stock_expansion, text, flags=re.IGNORECASE)
 
     return text
 
 df = pd.read_csv('data/reddit_data.csv')
 
 columns_to_process = ['content', 'top_comment_1', 'top_comment_2', 'top_comment_3']
+print("Cleaning data...")
 for column in columns_to_process:
     df[column] = df[column].apply(lambda x: clean_text(str(x)))
     df[column] = df[column].apply(expand_acronyms)
+print("Data cleaning completed")
+df.to_csv('data/processed_data.csv', index=False)
 
+print("Processing data...")
 sentiment_analyzer = SentimentAnalyzer()
 keyword_extractor = KeywordExtraction()
 
@@ -61,6 +62,7 @@ for index, row in df.iterrows():
             'keywords': keywords
         }, ignore_index=True)
 
+print("Data processed")
 gpt_dataset.to_csv('data/gpt_training_data.csv', index=False)
 
 # tfidf
