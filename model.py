@@ -1,7 +1,9 @@
 import pandas as pd
 import json
 import openai
-openai.api_key = ''
+import config
+
+openai.api_key = config.openai_key
 
 result = openai.fine_tuning.jobs.create(
     training_file='',   

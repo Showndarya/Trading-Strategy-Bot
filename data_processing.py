@@ -1,10 +1,15 @@
 import pandas as pd
 import re
 import nltk
+import json
 nltk.download('punkt')
 from acronyms import acronyms
 from sentiment_analysis import SentimentAnalyzer
 from post_comment_keyword_extraction import KeywordExtraction
+from stock_market_acronyms import stock_market_acronyms
+
+with open('stocks_data.json', 'r') as jsonfile:
+    stock_acronyms = json.load(jsonfile)
 
 def clean_text(text):
     text = re.sub(r'\[.*?\]\(.*?\)', '', text)
@@ -16,6 +21,16 @@ def clean_text(text):
 def expand_acronyms(text):
     for acronym, expansion in acronyms.items():
         text = re.sub(r'\b' + acronym + r'\b', expansion, text)
+
+    for stock_market_acronym, stock_market_expansion in stock_market_acronyms.items():
+        text = re.sub(r'\b' + stock_market_acronym + r'\b', stock_market_expansion, text)
+    
+    for stock_market_acronym, stock_market_expansion in stock_market_acronyms.items():
+        text = re.sub(r'\b' + stock_market_acronym + r'\b', stock_market_expansion, text)
+
+    for stock_acronym, stock_expansion in stock_acronyms.items():
+        text = re.sub(r'\b' + stock_acronym + r'\b', stock_expansion, text)
+
     return text
 
 df = pd.read_csv('data/reddit_data.csv')
