@@ -100,13 +100,57 @@ TYC,"Tyco International, Ltd. (TYC)"
 ABN,ABN Amro Holding N.V. (ABN)
 HMC,"Honda Motor Company, Ltd. (HMC)"
 EN,ENEL S.p.A. (EN)
-,"Allied Waste Industries, Inc. ()"
+BLS,Structured Products Corp. (BLS)
+LYG,LLOYDS TSB GROUP PLC (LYG)
 NSANY,"Nissan Motor Co., Ltd. (NSANY)"
+RY,Royal Bank Of Canada (RY)
+LOW,"Lowe's Companies, Inc. (LOW)"
+SNE,Sony Corporation (SNE)
 YHOO,Yahoo! Inc. (YHOO)
+DIS,Walt Disney Company (The) (DIS)
+MFC,Manulife Financial Corp (MFC)
+TGT,Target Corporation (TGT)
+TEM,Telefonica Moviles S.A. (TEM)
 "Industries, p.l.c.","British American Tobacco (Industries, p.l.c.)"
+UPS,"United Parcel Service, Inc. (UPS)"
+WLP,WellPoint Health Networks Inc. (WLP)
+TXN,Texas Instruments Incorporated (TXN)
+SZE,SUEZ ADS (SZE)
+FRE,Federal Home Loan Mortgage Corporation (FRE)
+BBL,BHP BILLITON PLC (BBL)
+CAT,"Caterpillar, Inc. (CAT)"
+BMY,Lehman ABS Corporation (BMY)
+PHG,"Koninklijke Philips Electronics, N.V. (PHG)"
+MCD,McDonald's Corporation (MCD)
+WAG,Walgreen Company (WAG)
+DEO,Diageo plc (DEO)
+ECA,Encana Corporation (ECA)
+BF,Brown-Forman Corporation (BF)
+AMX,"America Movil, S.A. de C.V. (AMX)"
+WM,"Washington Mutual, Inc. (WM)"
+NAB,National Australia Bank Limited (NAB)
+HAL,Halliburton Company (HAL)
+DOW,Dow Chemical Company (The) (DOW)
+UN,Unilever NV (UN)
+BRG,BG Group plc (BRG)
 PBR/A,PETROLEO BRASILEIRO SA PETRO (PBR/A)
+OXY,Occidental Petroleum Corporation (OXY)
+ACL,ALCON INC (ACL)
+BNS,Bank of Nova Scotia (The) (BNS)
+VLO,Valero Energy Corporation (VLO)
+RIO,Cia Vale do Rio Doce (RIO)
+NMR,Nomura Holdings Inc ADR (NMR)
+EXC,EXELON CORP (EXC)
+PRU,Prudential Financial Inc (PRU)
+MET,"MetLife, Inc. (MET)"
+TD,Toronto Dominion Bank (The) (TD)
 CMCSA,Comcast Corporation (CMCSA)
+LEH,Lehman Brothers Fin SA (LEH)
+TI,Telecom Italia S.P.A. (TI)
+GLW,Corning Incorporated (GLW)
 Inc.,Suncor Energy (Inc.)
+V,Vivendi Universal (V)
+DD,E.I. du Pont de Nemours and Company (DD)
 CEO,CNOOC Limited (CEO)
 ANZ,Australia & New Zealand Banking Group Limited (ANZ)
 NWS/A,News Corporation Limited (The) (NWS/A)
@@ -872,7 +916,57 @@ PPDI,"Pharmaceutical Product Development, Inc. (PPDI)"
 LRY,Liberty Property Trust (LRY)
 BRO,"Brown & Brown, Inc. (BRO)"
 CNP,"CenterPoint Energy, Inc (Holding Co) (CNP)"
+ACGL,Arch Capital Group Ltd. (ACGL)
+ACF,AmeriCredit Corporation (ACF)
+EMN,Eastman Chemical Company (EMN)
+MLM,"Martin Marietta Materials, Inc. (MLM)"
+NVLS,"Novellus Systems, Inc. (NVLS)"
+ATVI,"Activision, Inc. (ATVI)"
+DST,"DST Systems, Inc. (DST)"
+NRG,"NRG Energy, Inc. (NRG)"
+MFE,"Networks Associates, Inc. (MFE)"
+ALD,Allied Capital Corporation (ALD)
+PNR,"Pentair, Inc. (PNR)"
+BNL,"Bunzl, plc (BNL)"
+RRC,Range Resources Corporation (RRC)
+TSS,"Total System Services, Inc. (TSS)"
+PMI,"PMI Group, Inc. (The) (PMI)"
+ACAS,"American Capital Strategies, Ltd. (ACAS)"
 Company,Molson Coors Brewing (Company)
+CNB,"Colonial BancGroup, Inc. (The) (CNB)"
+MICC,Millicom International Cellular S.A. (MICC)
+KWK,Quicksilver Resources Inc. (KWK)
+BVN,"Compania Mina Buenaventura, S.A. (BVN)"
+IJD,Indiana Michigan Power Co. (IJD)
+ENDP,Endo Pharmaceuticals Holdings Inc. (ENDP)
+VRTX,Vertex Pharmaceuticals Incorporated (VRTX)
+HAS,"Hasbro, Inc. (HAS)"
+NOVL,"Novell, Inc. (NOVL)"
+HCP,"Health Care Property Investors, Inc. (HCP)"
+SVM,ServiceMaster Company (The) (SVM)
+LOGI,Logitech International S.A. (LOGI)
+XEC,Cimarex Energy Co (XEC)
+MDR,"McDermott International, Inc. (MDR)"
+EV,Eaton Vance Corporation (EV)
+FDO,"Family Dollar Stores, Inc. (FDO)"
+LIZ,"Liz Claiborne, Inc. (LIZ)"
+BEC,"Beckman Coulter, Inc. (BEC)"
+CPS,ChoicePoint Inc. (CPS)
+CNO,"Conseco, Inc. (CNO)"
+CYN,City National Corporation (CYN)
+JBHT,"J.B. Hunt Transport Services, Inc. (JBHT)"
+BDM,"Merrill Lynch & Co., Inc. (BDM)"
+ORLY,"O'Reilly Automotive, Inc. (ORLY)"
+EAS,Energy East Corporation (EAS)
+WPI,"Watson Pharmaceuticals, Inc. (WPI)"
+JNY,"Jones Apparel Group, Inc. (JNY)"
+IVGN,Invitrogen Corporation (IVGN)
+TRZ,TRIZEC PROPERTIES INC (TRZ)
+CXG,CNX Gas Corporation (CXG)
+BC,Brunswick Corporation (BC)
+OSK,Oshkosh Truck Corporation (OSK)
+TSN,"Tyson Foods, Inc. (TSN)"
+WTR,"Aqua America, Inc. (WTR)"
 BOL,Bausch & Lomb Incorporated (BOL)
 WRI,Weingarten Realty Investors (WRI)
 WES,WestCorp (WES)
@@ -975,7 +1069,57 @@ JEF,"Jefferies Group, Inc. (JEF)"
 HNI,HON INDUSTRIES Inc. (HNI)
 SIG,Signet Group plc (SIG)
 VTR,"Ventas, Inc. (VTR)"
+ESI,"ITT Educational Services, Inc. (ESI)"
+AMG,"Affiliated Managers Group, Inc. (AMG)"
+PAA,"Plains All American Pipeline, L.P. (PAA)"
+KNM,Konami Corporation (KNM)
+CG,Loews Corporation (CG)
+BWA,BorgWarner Inc. (BWA)
+SPW,SPX Corporation (SPW)
+ANAT,American National Insurance Company (ANAT)
+KMX,CARMAX INC (KMX)
+PL,Protective Life Corporation (PL)
+SPP,Sappi Limited (SPP)
+BCO,Pittston Company (The) (BCO)
+AGU,Agrium Inc. (AGU)
+CCK,"Crown Cork & Seal Company, Inc. (CCK)"
+RHA,Rhodia SA (RHA)
+IM,Ingram Micro Inc. (IM)
+LPX,Louisiana-Pacific Corporation (LPX)
+LZ,Lubrizol Corporation (The) (LZ)
+CHH,"Choice Hotels International, Inc. (CHH)"
+SBL,"Symbol Technologies, Inc. (SBL)"
+JHX,James Hardie Industries NV (JHX)
+HUG,"Hughes Supply, Inc. (HUG)"
+GIB,"CGI Group, Inc. (GIB)"
+HPT,Hospitality Properites Trust (HPT)
+RRI,"Reliant Resources, Inc. (RRI)"
+CSE,CAPITALSOURCE INC (CSE)
+HCR,"Manor Care, Inc. (HCR)"
+MCY,Mercury General Corporation (MCY)
+IVW,iShares S&P 500/BARRA Growth Index Fund (IVW)
+NST,NSTAR (NST)
+SON,Sonoco Products Company (SON)
+LVLT,"Level 3 Communications, Inc. (LVLT)"
 Manufacturing International Corporation,Semiconductor (Manufacturing International Corporation)
+APCS,"Alamosa Holdings, Inc. (APCS)"
+IFF,"Internationa Flavors & Fragrances, Inc. (IFF)"
+IVE,iShares S&P 500/BARRA Value Index Fund (IVE)
+ACH,Aluminum Corporation of China Ltd (ACH)
+IFIN,Investors Financial Services Corp. (IFIN)
+MOLX,Molex Incorporated (MOLX)
+UTR,"Unitrin, Inc. (UTR)"
+ARI,"Arden Realty, Inc. (ARI)"
+RGA,"Reinsurance Group of America, Incorporated (RGA)"
+BOKF,BOK Financial Corporation (BOKF)
+PA,Panamsat Holding Corporation (PA)
+IMCL,ImClone Systems Incorporated (IMCL)
+AF,Astoria Financial Corporation (AF)
+EYE,"Advanced Medical Optics, Inc. (EYE)"
+HB,"Hillenbrand Industries, Inc. (HB)"
+CEM,Crompton Corporation (CEM)
+CBI,Chicago Bridge & Iron Company N.V. (CBI)
+AW,"Allied Waste Industries, Inc. (AW)"
 BZH,"Beazer Homes USA, Inc. (BZH)"
 FRO,Frontline Ltd. (FRO)
 RSH,Radioshack Corporation (RSH)
