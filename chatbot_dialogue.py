@@ -1,6 +1,7 @@
 from openai import OpenAI
+import config
 
-client = OpenAI(api_key='')
+client = OpenAI(api_key=config.openai_key)
 
 def send_to_custom_model(user_input):
     response = client.chat.completions.create(model='gpt-3.5-turbo-0613',
