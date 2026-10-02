@@ -1,7 +1,5 @@
 import pandas as pd
 import re
-import nltk
-nltk.download('punkt')
 from acronyms import acronyms
 from sentiment_analysis import SentimentAnalyzer
 from post_comment_keyword_extraction import KeywordExtraction
